@@ -1,0 +1,10 @@
+{"9606": {"name": "human", "synonyms": ["human", "humans", "men", "man", "homo sapiens"],
+"geneinfo": "ftp://ftp.ncbi.nih.gov/gene/DATA/GENE_INFO/Mammalia/Homo_sapiens.gene_info.gz"
+},
+"10090": {"name": "mouse", "synonyms": ["mouse", "mice", "mus musculus"], 
+"geneinfo": "ftp://ftp.ncbi.nih.gov/gene/DATA/GENE_INFO/Mammalia/Mus_musculus.gene_info.gz" 
+},
+"10116": {"name": "rat", "synonyms": ["rat", "rats", "rattus norvegicus"], 
+"geneinfo": "ftp://ftp.ncbi.nih.gov/gene/DATA/GENE_INFO/Mammalia/Rattus_norvegicus.gene_info.gz" 
+}
+}
