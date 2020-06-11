@@ -3,6 +3,10 @@ get the tissue specificity
 what is the tissue specificity
 how specific is the expression
 tell me the tissue specificity of {gene}
+tell me the tissue specificity of {species} {gene}
 get the tissue specificity of {gene}
+get the tissue specificity of {species} {gene}
 what is the tissue specificity of {gene}
+what is the tissue specificity of {species} {gene}
 how specific is the expression of {gene}
+how specific is the expression of {species} {gene}

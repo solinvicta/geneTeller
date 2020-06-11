@@ -1,4 +1,5 @@
 ﻿what is recent information about {gene}
+what is recent information about {species} {gene}
 What's another rif
 What's another gene rif
 Tell me another rif
@@ -6,6 +7,10 @@ Tell me another gene rif
 Another rif
 What is another gene rif
 tell me something about {gene}
+tell me something about {species} {gene}
 what is a gene rif about {gene}
+what is a gene rif about {species} {gene}
 What is a recent gene rif about {gene}
+What is a recent gene rif about {species} {gene}
 What is some information about {gene}
+What is some information about {species} {gene}

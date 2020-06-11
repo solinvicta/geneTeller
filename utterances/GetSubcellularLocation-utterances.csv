@@ -4,7 +4,12 @@ where in the cell is it expressed
 what is the subcellular location
 what is the subcellular localization
 what part of the cell contains {gene}
+what part of the cell contains {species} {gene}
 what is the subcellular expression of {gene}
+what is the subcellular expression of {species} {gene}
 where in the cell is {gene} expressed
+where in the cell is {species} {gene} expressed
 what is the subcellular location of {gene}
+what is the subcellular location of {species} {gene}
 what is the subcellular localization of {gene}
+what is the subcellular localization of {species} {gene}

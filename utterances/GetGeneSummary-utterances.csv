@@ -6,17 +6,32 @@ tell me about it
 get information
 what is the description
 what is a summary for {gene}
+what is a summary for {species} {gene}
 what is the summary for {gene}
+what is the summary for {species} {gene}
 what is a summary of {gene}
+what is a summary of {species} {gene}
 describe {gene}
+describe {species} {gene}
 what is the description for {gene}
+what is the description for {species} {gene}
 what is the description of {gene}
+what is the description of {species} {gene}
 what is a description for {gene}
+what is a description for {species} {gene}
 get information about {gene}
+get information about {species} {gene}
 tell me about {gene}
+tell me about {species} {gene}
 what is the refseq summary for {gene}
+what is the refseq summary for {species} {gene}
 what is a refseq summary for {gene}
+what is a refseq summary for {species} {gene}
 what is the refseq summary of {gene}
+what is the refseq summary of {species} {gene}
 what is a refseq summary of {gene}
+what is a refseq summary of {species} {gene}
 what is the summary for {gene}
+what is the summary for {species} {gene}
 what is the summary of {gene}
+what is the summary of {species} {gene}

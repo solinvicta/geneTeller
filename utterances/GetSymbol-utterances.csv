@@ -9,3 +9,10 @@ what is the symbol for gene id {gene}
 what is the name for {gene}
 what is the canonical symbol for {gene}
 what is the symbol for {gene}
+tell me the gene symbol for {species} {gene}
+tell me the symbol for {species} {gene}
+what is the symbol for {species}  gene {gene}
+what is the symbol for {species} gene id {gene}
+what is the name for {species}  {gene}
+what is the canonical symbol for {species}  {gene}
+what is the symbol for {species} {gene}
